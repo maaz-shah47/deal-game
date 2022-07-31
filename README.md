@@ -1,24 +1,12 @@
-# README
+It is guessing game made in Rails.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Following are the screenshots of the Deal Game.
 
-Things you may want to cover:
 
-* Ruby version
+<img width="1920" alt="image" src="https://user-images.githubusercontent.com/99728195/158410673-b030ec5f-e083-468a-bfb3-e227144159a8.png">
 
-* System dependencies
+<img width="1920" alt="image" src="https://user-images.githubusercontent.com/99728195/158410788-9809e506-f5af-4dcd-9e94-1cad7c689cae.png">
 
-* Configuration
+<img width="1920" alt="image" src="https://user-images.githubusercontent.com/99728195/158411669-e2352a8a-4e82-4314-bf37-4bb5c50a3bf0.png">
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<img width="1920" alt="image" src="https://user-images.githubusercontent.com/99728195/158410851-6b210154-794a-4460-a316-a975dabfeb92.png">

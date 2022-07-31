@@ -1,0 +1,20 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+$body-background: #333;
+$p-color: rgb(177, 176, 176);
+
+$color-white: #fff;
+body {
+  background: $body-background;
+  color: $color-white;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  display: block;
+}
+
+p {
+  font-size: 2rem;
+  color: $p-color;
+}

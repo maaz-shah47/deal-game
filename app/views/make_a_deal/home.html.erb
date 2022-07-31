@@ -1,0 +1,24 @@
+<h1>Wanna Make a Deal?</h1>
+<p>There are three doors. Behind two doors there are BAD THINGS. </p>
+<p>Behind one door is an AWESOME THING.</p>
+<p>Choose a door...</p>
+
+<div class = "container">
+    <div class="row">
+        <div class="col-sm-4">
+          <%= link_to choose_1_path do %>
+            <%= image_tag "blue-door.jpeg", height: 300 %>
+          <% end %>
+        </div>
+        <div class="col-sm-4">
+          <%= link_to choose_2_path do %>
+            <%= image_tag "red-door.jpeg", height: 300 %>
+          <% end %>
+        </div>
+        <div class="col-sm-4">
+          <%= link_to choose_3_path do %>
+            <%= image_tag "green-door.jpeg", height: 300 %>
+          <% end %>
+        </div>
+    </div>
+</div>

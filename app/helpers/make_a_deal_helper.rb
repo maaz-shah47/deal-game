@@ -1,0 +1,2 @@
+module MakeADealHelper
+end
